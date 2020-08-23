@@ -11,7 +11,7 @@ Feito em javascript para rodar com Node.js.
 
 
 # Exercício 2 (Cripke):
-
+![Cripke](https://github.com/laurent-cheret/fluke/blob/master/cripke.jpeg?raw=true)
 ## Passo a passo:
 Foi feito usando os seguintes tutoriais como orientação:
   - https://www.youtube.com/watch?v=unr4s3jd9qA (Para autenticação com Firebase e Hooks)
